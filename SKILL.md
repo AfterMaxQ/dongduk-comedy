@@ -1,5 +1,5 @@
 ---
-name: writing-observational-dongduk-comedy
+name: dongduk-comedy
 description: 用于用户要求创作、续写、改写、润色或组织中文/粤语栋笃笑、观察型喜剧、单口喜剧段落、整场演出稿，或用户没有明确主题但希望自动生成可表演喜剧内容时。
 ---
 
